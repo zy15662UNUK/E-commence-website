@@ -7,7 +7,7 @@
                     <div class="userCenterBox boxCenterList clearfix" style="_height:1%;">
                         <h5><span>个人资料</span></h5>
                         <div class="blank"></div>
-                        <form name="formEdit" >
+                        <form name="formEdit" action="" method="post" >
                             <table width="100%" border="0" cellpadding="5" cellspacing="1" bgcolor="#dddddd">
                                 <tbody>
                                     <tr>
